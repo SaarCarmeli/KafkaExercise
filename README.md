@@ -57,3 +57,4 @@ services:
    to point Kafka to the application's topic.
 2) Run Java project
 3) Use swagger2 at "http://localhost:8080/swagger-ui.html" (or local IP path) to add messages to the chat
+4) Observe messages on Kafka console or local java console
